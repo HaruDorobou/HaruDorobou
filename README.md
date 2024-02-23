@@ -1,4 +1,9 @@
 $\color{green}{Hello There... Welmcome...?}$
+
+*LinkedIn*
+www.linkedin.com/in/kakuseiga96
+
+
 > [!NOTE]
 > But There is no Content for Note
 
