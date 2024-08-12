@@ -3,9 +3,9 @@
 ## Dark Mode Optimized
 # 🔧 HaruDorobou Main 🚰 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaruDorobou%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<p alig="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HaruDorobou&hide=contribs,prs&show_icons=true&theme=shadow_blue"/a>
-</p>
+</div>
 
 ---
 
@@ -43,9 +43,9 @@
 - [LinkedIn](https://www.linkedin.com/in/kakuseiga96)
 - [Linux Foundation Profile](https://openprofile.dev/profile/kakuseiga)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaruDorobou&layout=compact&theme=dark" />
-</a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaruDorobou&layout=compact&theme=dark" />
+</div>
 
 ---
 > "Every system is a pipeline, waiting to be optimized." - HaruDorobou
