@@ -1,6 +1,25 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
 ## Dark Mode Optimized
+<details>
+<summary>🌓 다크 모드 토글</summary>
+<br>
+<a href="#" id="theme-toggle" onclick="modeSwitcher()">
+    <img src="https://img.shields.io/badge/다크모드-전환-blue.svg" alt="다크 모드 전환" />
+</a>
+
+<script>
+function modeSwitcher() {
+    let currentTheme = document.documentElement.getAttribute('data-theme');
+    if (currentTheme === 'dark') {
+        document.documentElement.setAttribute('data-theme', 'light');
+    } else {
+        document.documentElement.setAttribute('data-theme', 'dark');
+    }
+}
+</script>
+</details>
+
 
 # 🔧 HaruDorobou Main 🚰 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaruDorobou%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
