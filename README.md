@@ -44,7 +44,7 @@
 
 
 ## 📫 Contact Me
-- [LinkedIn](www.linkedin.com/in/kakuseiga96)
+- [LinkedIn](https://www.linkedin.com/in/kakuseiga96)
 - [Linux Foundation Profile](https://openprofile.dev/profile/kakuseiga)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
