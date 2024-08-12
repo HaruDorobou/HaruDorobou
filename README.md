@@ -3,12 +3,9 @@
 ## Dark Mode Optimized
 # 🔧 HaruDorobou Main 🚰 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaruDorobou%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<a href="https://github.com/HaruDorobou/solved">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HaruDorobou&repo=solved&theme=dark" />
-</a>
-<a href="https://github.com/HaruDorobou">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HaruDorobou&hide=contribs,prs&show_icons=true&theme=shadow_blue" />
-</a>
+<p alig="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HaruDorobou&hide=contribs,prs&show_icons=true&theme=shadow_blue"/a>
+</p>
 
 ---
 
