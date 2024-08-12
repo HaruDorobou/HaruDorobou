@@ -1,12 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
 ## Dark Mode Optimized
-<details>
-<summary>🌓 다크 모드 토글</summary>
-<br>
-<a href="#" id="theme-toggle" onclick="modeSwitcher()">
-    <img src="https://img.shields.io/badge/다크모드-전환-blue.svg" alt="다크 모드 전환" />
-</a>
 
 <script>
 function modeSwitcher() {
