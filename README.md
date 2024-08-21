@@ -14,7 +14,8 @@
 ## 🛠 Tech Stack
 ### 💻 Core Skills
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suk0508)](https://solved.ac/suk0508/)   <img src="http://mazandi.herokuapp.com/api?handle=suk0508&theme=dark"/>
-![Leetcode Stats](https://leetcard.jacoblin.cool/JAEBI)
+![Leetcode Stats](https://leetcard.jacoblin.cool/JAEBI?ext=heatmap)
+
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
