@@ -50,6 +50,4 @@
 </div>
 
 ---
-> "Every system is a pipeline, waiting to be optimized." - HaruDorobou
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
